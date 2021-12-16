@@ -1,19 +1,19 @@
-Requirements:
+# Requirements:
 
 Numpy - My version was 1.19.5
 
 Pygame - My version was 2.0.1
 
-Usage:
+# Usage:
 
 run input_maker.py.py
 
-Output is located at Output/<text chosen>.txt
+Output is located at Output/"text chosen".txt
     
-    This can be fed directly into a solver for day 13.2
+This can be fed directly into a solver for day 13.2
 
     
-Changing font type:
+# Changing font type:
     
 Add the ttf file to the Fonts directory.
     
